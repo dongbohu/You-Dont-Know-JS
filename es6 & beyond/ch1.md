@@ -75,7 +75,7 @@ This is a minor but pleasant transformation that lets us shorten the `foo: foo` 
 
 Transpilers perform these transformations for you, usually in a build workflow step similar to how you perform linting, minification, and other similar operations.
 
-### Shims/Polyfills
+### 1.2.1 Shims/Polyfills
 
 Not all new ES6 features need a transpiler. Polyfills (aka shims) are a pattern for defining equivalent behavior from a newer environment into an older environment, when possible. Syntax cannot be polyfilled, but APIs often can be.
 
