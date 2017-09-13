@@ -19,7 +19,7 @@ ES6 is a radical jump forward for the language. Even if you think you know JS in
 
 **Warning:** All code in this book assumes an ES6+ environment. At the time of this writing, ES6 support varies quite a bit in browsers and JS environments (like Node.js), so your mileage may vary.
 
-## Versioning
+## 1.1 Versioning
 
 The JavaScript standard is referred to officially as "ECMAScript" (abbreviated "ES"), and up until just recently has been versioned entirely by ordinal number (i.e., "5" for "5th edition").
 
@@ -37,7 +37,7 @@ Usually well before there's an official stamp of approval, a feature is de facto
 
 The takeaway is that the version labels stop being as important, and JavaScript starts to be seen more as an evergreen, living standard. The best way to cope with this is to stop thinking about your code base as being "ES6-based," for instance, and instead consider it feature by feature for support.
 
-## Transpiling
+## 1.2 Transpiling
 
 Made even worse by the rapid evolution of features, a problem arises for JS developers who at once may both strongly desire to use new features while at the same time being slapped with the reality that their sites/apps may need to support older browsers without such support.
 
